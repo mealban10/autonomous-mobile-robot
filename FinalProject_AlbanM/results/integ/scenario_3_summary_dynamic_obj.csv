@@ -1,0 +1,3 @@
+scenario_id,map_file,optimization_mode,sim_time_s,elapsed_real_s,robot_id,finished,failed,waypoints_reached,waypoints_total
+scenario_3,C:\Users\MARITZA\Downloads\Final project\FinalProject_AlbanM\maps\demoMap,time,141.08333333333334,344.3431457000552,Robot 1,True,False,10,10
+scenario_3,C:\Users\MARITZA\Downloads\Final project\FinalProject_AlbanM\maps\demoMap,time,141.08333333333334,344.3431457000552,Robot 2,True,False,2,2

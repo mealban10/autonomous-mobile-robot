@@ -1,0 +1,3 @@
+scenario_id,robot_id,job_id,pickup_col,pickup_row,delivery_col,delivery_row,planned_route_movements
+scenario_4,Robot 1,Job A,13,9,16,9,3
+scenario_4,Robot 2,Job B,16,9,13,9,3
